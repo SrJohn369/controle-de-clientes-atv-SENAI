@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("controle-de-clientes-atv-SENAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee1bf5d164830f71dad61006dd699686283801b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c3fda80a120eef88aac3a00948d5b44db008d7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("controle-de-clientes-atv-SENAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("controle-de-clientes-atv-SENAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
